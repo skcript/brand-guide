@@ -2,7 +2,7 @@
 
 This repo contains versions of our logo and the icons of the company and products we create. Feel free to use these anywhere on the web with the guidelines we have set to protect the brand identity.
 
-- Do not modify or alter Skcript log
+- Do not modify or alter Skcript logo
 - Do not use it in any confusing way
 - Do not use it in places where the team has not authorized in terms of sponsorship for events or endorsements.
 
