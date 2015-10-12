@@ -7,6 +7,7 @@ Skcript’s brand assets includes phrases, symbols, icons, words, colors and des
 #### Do
 
 - Always use our official, unmodified Skcript brand assets to represent our brand.
+- Capitalize the word “Skcript”, except when it’s part of a web address
 - Do not modify any of the brand assets in any way.
 - Allow for at least 100% buffer space around Skcript brand assets so that they appear uncluttered and clean.
 
@@ -14,6 +15,7 @@ Skcript’s brand assets includes phrases, symbols, icons, words, colors and des
 
 - Rotate of change the alignment or direction of the brand assets.
 - Animate the brand assets.
+- Use the Skcript wordmark in place of the word “Skcript”
 - Duplicate the Skcript’s or Evolvr.io’s logos.
 - Change the color of Skcript brand assets.
 - Use any other marks or logos to represent our brand.
