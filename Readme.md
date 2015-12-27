@@ -12,3 +12,5 @@ We deeply care about our brand, and we believe that you make use of our logo whe
 Thanks! 
 
 — [Karthik K](https://twitter.com/imkarthikk)
+
+**P.S.:** These are just templates that you can use for your company and spread it to Press. We are working on a variety of documents, and Sketch templates too. They're coming up on this repo pretty soon. 
