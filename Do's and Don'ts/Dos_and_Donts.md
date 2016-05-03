@@ -1,13 +1,13 @@
 ### Brand Guidelines
 
-We encourage anyone who’s interested in using our brand identity for a cause that’s been authorized by our team. These guidelines have been designed to help people use our brand and its assets without causing any issues with our brand identity. To make use of our assets in any way that is not covered by these guidelines, you should contact our team at [business@skcript.com](mailto:business@skcript.com). The email that you send must contain the exact visual mock of the material you’re going to be using for a specific purpose.
+We encourage anyone who’s interested in using our brand identity for a cause that’s been authorized by our team. These guidelines have been designed to help people use our brand and its assets to look uniform across platforms. To make use of our assets in any way that is not covered by these guidelines, you should contact our team at [business@skcript.com](mailto:business@skcript.com). The email that you send must contain the exact visual mock of the material you’re going to be using for a specific purpose.
 
-Skcript’s brand assets includes phrases, symbols, icons, words, colors and designed that are included in this repository, that represents one of more services that Skcript provides.
+Skcript’s brand assets includes phrases, symbols, icons, words, colors and designs that are included in this repository, that represents one of more services that Skcript provides.
 
 #### Do
 
 - Always use our official, unmodified Skcript brand assets to represent our brand.
-- Capitalize the word “Skcript”, except when it’s part of a web address
+- Capitalize the word “Skcript”, except when it’s part of a web address.
 - Do not modify any of the brand assets in any way.
 - Allow for at least 100% buffer space around Skcript brand assets so that they appear uncluttered and clean.
 
@@ -16,7 +16,7 @@ Skcript’s brand assets includes phrases, symbols, icons, words, colors and des
 - Rotate of change the alignment or direction of the brand assets.
 - Animate the brand assets.
 - Use the Skcript wordmark in place of the word “Skcript”
-- Duplicate the Skcript’s or Evolvr.io’s logos.
+- Duplicate the Skcript’s or Allt’s logos.
 - Change the color of Skcript brand assets.
 - Use any other marks or logos to represent our brand.
 - Use Skcript brand in a way that implies endorsement or sponsorship or partnership.
